@@ -1,5 +1,6 @@
 Manifest-Version: 1.0  
 Premain-Class: com.safziy.agent.TestAgent
+Boot-Class-Path: javassist-3.18.1-GA.jar
 Can-Redefine-Classes: true
 Can-Retransform-Classes: true
 Can-Set-Native-Method-Prefix: true
